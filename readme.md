@@ -1,7 +1,7 @@
 To run the code using docker:
 
 1. clone the repo
-2. change the working directory to docker-video
+2. change the working directory to docker-demo
 3. run the below commands
 
 
