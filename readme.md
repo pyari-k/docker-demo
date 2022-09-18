@@ -1,4 +1,8 @@
-To run the code using docker use the below:
+To run the code using docker:
+
+1. clone the repo
+2. change the working directory to docker-video
+3. run the below commands
 
 
 ```
