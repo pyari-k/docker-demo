@@ -1,8 +1,9 @@
 To run the code using docker:
 
-1. clone the repo
-2. change the working directory to docker-demo
-3. run the below commands
+1. install docker and let the docker daemon run
+2. clone the repo
+3. change the working directory to docker-demo
+4. run the below commands
 
 
 ```
